@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/Users/developer/.composer/vendor/bin/node $@
