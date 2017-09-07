@@ -7,7 +7,7 @@ $access_token = '16320748-Xf6LwZhdWgzsa6musuiOyAQQC8wiqg5UYrvCoWGg';
 $access_token_secret = 'ap8kdrP0LR8tBw4OnWeI69lBQV58S7wYKkOtzBJFPA';
 
 // include library
-require "twitteroauth/autoload.php";
+require "vendor/autoload.php";
 use Abraham\TwitterOAuth\TwitterOAuth;
 
 // connect API
