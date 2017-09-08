@@ -1,0 +1,6 @@
+{
+  "name":"Matt's website",
+  "require": {
+    "Abraham/twitteroauth": "^0.7.4"
+  }
+}
